@@ -37,13 +37,14 @@
           <option name="apiVersion" value="1.3" />
           <option name="pluginOptions">
             <array>
-              <option value="plugin:org.jetbrains.kotlin.android:configuration=rO0ABXoAAAQAAAAABQAIZmVhdHVyZXMAAAABAA92aWV3cyxwYXJjZWxpemUADGV4cGVyaW1lbnRhbAAAAAEABHRydWUAGmRlZmF1bHRDYWNoZUltcGxlbWVudGF0aW9uAAAAAQAHaGFzaE1hcAAHcGFja2FnZQAAAAEAImNvbS5leGFtcGxlLmFuZHJvaWQubWFyc3JlYWxlc3RhdGUAB3ZhcmlhbnQAAAACBmFtYWluOy9ob21lL2VyaWsxOTk3Ly5ncmFkbGUvY2FjaGVzL3RyYW5zZm9ybXMtMi9maWxlcy0yLjEvN2ZiZTZlZDMzYWY1MzljMjk2Yzc5NjZlYmU3NTM1MDgvZGF0YWJpbmRpbmctYWRhcHRlcnMtMy42LjEvcmVzOy9ob21lL2VyaWsxOTk3Ly5ncmFkbGUvY2FjaGVzL3RyYW5zZm9ybXMtMi9maWxlcy0yLjEvYTcwZjE3NGRiNWRiMTA3MzIyMWZlMDQ0ZWE1NjNlZjMvZGF0YWJpbmRpbmctcnVudGltZS0zLjYuMS9yZXM7L2hvbWUvZXJpazE5OTcvLmdyYWRsZS9jYWNoZXMvdHJhbnNmb3Jtcy0yL2ZpbGVzLTIuMS8wY2ZlNjE4M2FlNDczNWMwNzUwZjE0NzVlNTZkNDZhYy9jb25zdHJhaW50bGF5b3V0LTEuMS4zL3JlczsvaG9tZS9lcmlrMTk5Ny8uZ3JhZGxlL2NhY2hlcy90cmFuc2Zvcm1zLTIvZmlsZXMtMi4xL2E5NTk3MWFhNGUwZGUwMDU3Mjc4MDg1ZDBlZGIzNmQxL25hdmlnYXRpb24tZnJhZ21lbnQtMi4wLjAvcmVzOy9ob21lL2VyaWsxOTk3Ly5ncmFkbGUvY2FjaGVzL3RyYW5zZm9ybXMtMi9maWxlcy0yLjEvYmQ0ZGU3MWViNzRkMTZkMjkyMDI1OTY2NzBiZjc4ZDMvbmF2aWdhdGlvbi11aS0yLjAuMC9yZXM7L2hvbWUvZXJpazE5OTcvLmdyYWRsZS9jYWNoZXMvdHJhbnNmb3Jtcy0yL2ZpbGVzLTIuMS8wNzY1MzlmY2MxMGEyZTRiMTNhZDJjYjgxMmIwMTZkNi9tYXRlcmlhbC0xLjAuMC9yZXM7L2hvbWUvZXJpazE5OTcvLmdyYWRsZS9jYWNoZXMvdHJhbnNmb3Jtcy0yL2ZpbGVzLTIuMS80OTI0N2FlZGY5MmE5NDRmYjYzNDdlY2IzZTJhNDgwZS9hcHBjb21wYXQtMS4wLjAvcmVzOy9ob21lL2VyaWsxOTk3Ly5ncmFkbGUvY2FjaGVzL3RyYW5zZm9ybXMtMi9maWxlcy0yLjEvMTk2ZWNhNTQwMGU5YzU2Yzc4OHoAAANeMGU2MjNkYmNmNDUxMC9yZWN5Y2xlcnZpZXctMS4wLjAvcmVzOy9ob21lL2VyaWsxOTk3Ly5ncmFkbGUvY2FjaGVzL3RyYW5zZm9ybXMtMi9maWxlcy0yLjEvZmJhOWQ1YzgwNzY4ZmMyZGVhMjQyNmIyNWI0NWRmMzcvbmF2aWdhdGlvbi1ydW50aW1lLTIuMC4wL3JlczsvaG9tZS9lcmlrMTk5Ny8uZ3JhZGxlL2NhY2hlcy90cmFuc2Zvcm1zLTIvZmlsZXMtMi4xL2ZiMTc1NjAzYzE2MzQ1YmYxZmVjZTYyYTMyNmRlODcwL2Nvb3JkaW5hdG9ybGF5b3V0LTEuMC4wL3JlczsvaG9tZS9lcmlrMTk5Ny8uZ3JhZGxlL2NhY2hlcy90cmFuc2Zvcm1zLTIvZmlsZXMtMi4xLzQyZjZjZGI1NmU5MTczOTY3YzY0NmY3M2RhYTM4NTIwL25hdmlnYXRpb24tY29tbW9uLTIuMC4wL3JlczsvaG9tZS9lcmlrMTk5Ny8uZ3JhZGxlL2NhY2hlcy90cmFuc2Zvcm1zLTIvZmlsZXMtMi4xL2RkY2VmNDQ1MThiODRkNDcxNzg5Nzg5OGNlMmJjOGFhL3RyYW5zaXRpb24tMS4wLjAvcmVzOy9ob21lL2VyaWsxOTk3Ly5ncmFkbGUvY2FjaGVzL3RyYW5zZm9ybXMtMi9maWxlcy0yLjEvMDFiYmJhZmZjMDJjZTk5NDM3OTViNjYyMWY1ZTJlMTkvY29yZS0xLjAuMC9yZXM7L2hvbWUvZXJpazE5OTcvLmdyYWRsZS9jYWNoZXMvdHJhbnNmb3Jtcy0yL2ZpbGVzLTIuMS84OGNmZGY4YThjNDQ1YWJkN2E3NWRjZTE2Zjk1MGQ1OC9jYXJkdmlldy0xLjAuMC9yZXM7L2hvbWUvZXJpazE5OTcvUHJvamVjdC9BbmRyb2lkS290bGluRnVuZGFtZW50YWxzL01hcnNSZWFsRXN0YXRlL2FwcC9zcmMvbWFpbi9yZXMAV2RlYnVnOy9ob21lL2VyaWsxOTk3L1Byb2plY3QvQW5kcm9pZEtvdGxpbkZ1bmRhbWVudGFscy9NYXJzUmVhbEVzdGF0ZS9hcHAvc3JjL2RlYnVnL3Jlcw==" />
+              <option value="plugin:org.jetbrains.kotlin.android:experimental=true" />
+              <option value="plugin:org.jetbrains.kotlin.android:enabled=true" />
+              <option value="plugin:org.jetbrains.kotlin.android:defaultCacheImplementation=hashMap" />
             </array>
           </option>
           <option name="pluginClasspaths">
             <array>
               <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.21/311c0d1cbb0a194e8712edaef7b92a8f0919ca26/kotlin-android-extensions-1.3.21.jar" />
-              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-annotation-processing-gradle/1.3.21/225aacd70ddfe71c72796bb317b3f12254c1ff3a/kotlin-annotation-processing-gradle-1.3.21.jar" />
             </array>
           </option>
           <option name="errors">
@@ -58,22 +59,22 @@
     <output-test url="file://$MODULE_DIR$/build/intermediates/javac/debugUnitTest/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/aidl_source_output_dir/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/navigation-args/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/kapt/debug" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/aidl_source_output_dir/debug/out" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/renderscript_source_output_dir/debug/out" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/navigation-args/debug" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/source/kaptKotlin/debug" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/kapt/debug" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/res/rs/debug" type="java-resource" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/renderscript_source_output_dir/debugAndroidTest/out" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/aidl_source_output_dir/debugAndroidTest/out" isTestSource="true" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/source/kapt/debugAndroidTest" isTestSource="true" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/ap_generated_sources/debugAndroidTest/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/aidl_source_output_dir/debugAndroidTest/out" isTestSource="true" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/renderscript_source_output_dir/debugAndroidTest/out" isTestSource="true" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/res/rs/androidTest/debug" type="java-test-resource" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/ap_generated_sources/debugUnitTest/out" isTestSource="true" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/source/kapt/debugUnitTest" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/ap_generated_sources/debugUnitTest/out" isTestSource="true" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/debug/res" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/debug/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/debug/assets" type="java-resource" />
@@ -123,11 +124,11 @@
     <orderEntry type="module-library">
       <library name="Gradle: kaptGeneratedClasses">
         <CLASSES>
-          <root url="file://$MODULE_DIR$/build/tmp/kapt3/classes/debugUnitTest" />
-          <root url="file://$MODULE_DIR$/build/tmp/kapt3/classes/releaseUnitTest" />
-          <root url="file://$MODULE_DIR$/build/tmp/kapt3/classes/debug" />
-          <root url="file://$MODULE_DIR$/build/tmp/kapt3/classes/release" />
           <root url="file://$MODULE_DIR$/build/tmp/kapt3/classes/debugAndroidTest" />
+          <root url="file://$MODULE_DIR$/build/tmp/kapt3/classes/debug" />
+          <root url="file://$MODULE_DIR$/build/tmp/kapt3/classes/debugUnitTest" />
+          <root url="file://$MODULE_DIR$/build/tmp/kapt3/classes/release" />
+          <root url="file://$MODULE_DIR$/build/tmp/kapt3/classes/releaseUnitTest" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -141,8 +142,12 @@
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-android-extensions-runtime:1.3.21@jar" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.21@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.squareup.moshi:moshi-kotlin:1.8.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.jakewharton.retrofit:retrofit2-kotlin-coroutines-adapter:0.9.2@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:1.1.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.2.71@jar" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.21@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-common:1.1.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.21@jar" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.constraintlayout:constraintlayout-solver:1.1.3@jar" level="project" />

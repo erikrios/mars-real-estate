@@ -57,7 +57,6 @@ class OverviewViewModel : ViewModel() {
                     override fun onResponse(call: Call<String>, response: Response<String>) {
                         _response.value = response.body()
                     }
-
                 }
         )
     }
